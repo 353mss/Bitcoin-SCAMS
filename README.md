@@ -24,5 +24,6 @@ You can take the code if you want and edit it to your liking
 
 -353mss
 
+Also You need to wait a bit for the end to come up
 
 PLEASE HAVE PYTHON BEFORE DOWNING main.py
